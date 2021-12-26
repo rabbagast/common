@@ -1,0 +1,8 @@
+version("")
+
+project.ext {
+  javadocName = "Common Components";
+  javadocImage = null;
+}
+
+apply from: "${System.env.DEV_HOME}/tools/Gradle/main.gradle"

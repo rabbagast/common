@@ -1,0 +1,3 @@
+NO; Norge; Noreg
+US; UNITED STATES of america; us; usa
+

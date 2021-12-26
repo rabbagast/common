@@ -1,0 +1,49 @@
+#
+# Gradle
+#
+.gradle/
+build/
+
+#
+# IntelliJ
+#
+*.iml
+*.iws
+*.ipr
+.idea/
+
+#
+# Eclipse
+#
+.settings/
+.classpath
+.project
+
+#
+# NetBeans
+#
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+#
+# JUnit
+#
+testreports/
+
+#
+# Derived content
+#
+common.jar
+obj/
+objtest/
+docs/
+
+#
+# Temporary files
+#
+*~
